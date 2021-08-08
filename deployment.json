@@ -5,14 +5,14 @@
         "adminUsername": {
             "type": "string",
             "minLength": 1,
-            "defaultValue": "demouser1",
+            "defaultValue": "demouser2",
             "metadata": {
                 "description": "Username for the Virtual Machine."
             }
         },
         "adminPassword": {
             "type": "securestring",
-            "defaultValue": "Demo!pass1",
+            "defaultValue": "Demo!pass2",
             "metadata": {
                 "description": "Password for the Virtual Machine."
             }
